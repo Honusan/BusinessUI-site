@@ -387,7 +387,7 @@ h6 {
   position: relative;
 }
 .menu-header__link--circle {
-  background: url("../../img/heade/icon/earth.svg") right no-repeat;
+  background: url("../img/heade/icon/earth.svg") right no-repeat;
   padding: 0px 42px 0px 0px;
 }
 @media (max-width: 1182px) {
